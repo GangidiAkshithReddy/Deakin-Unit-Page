@@ -2,26 +2,21 @@ body {
     background-color: #f5f5f5;
     font-family: Arial;
 }
-
 h1 {
     color: blue;
     text-align: center;
 }
-
 h2 {
     color: darkblue;
 }
-
 p {
     font-size: 14px;
 }
-
 table {
     width: 100%;
     border-collapse: collapse;
     background-color: lightyellow;
 }
-
 th, td {
     padding: 8px;
     text-align: center;
