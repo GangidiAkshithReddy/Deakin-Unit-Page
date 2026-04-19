@@ -1,19 +1,34 @@
-
+body {
+    background-color: #f5f5f5;
+    font-family: Arial;
+}
 
 h1 {
-  font-size: 40px;
-  font-family: Arial
+    color: blue;
+    text-align: center;
 }
+
 h2 {
-  font-size: 25px;
-  font-family: Arial
+    color: darkblue;
 }
-h3 {
-  font-family: Arial
-}
+
 p {
-  font-size: 14px;
-  font-family: Arial
+    font-size: 14px;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: lightyellow;
+}
 
+th, td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+a {
+    color: green;
+    font-weight: bold;
+}
